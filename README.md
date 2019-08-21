@@ -1,5 +1,5 @@
 # marketing-videos
-List of marketing videos and content subject for publicizing business development.
+List of marketing videos and content subject for publicizing business development. Mimic with writing companion pieces.
 
 ## Topics & Links
 
