@@ -7,6 +7,7 @@ List of marketing videos and content subject for publicizing business developmen
 - opening: always a book or an item of interst (the hard thing about had things) sound - find royalty free music
 - topics: the hardest thing is to start write it down, vet it a little and start, , small baby steps, multiple chessboards
 - quote: Reality is a product of your Imagination
+- link: https://medium.com/@filipszalewicz/hard-things-9893a4d99034?source=friends_link&sk=1353ff03187454da4e9c0c8d093ca9fc
 
 
 ### Write it Down 
