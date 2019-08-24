@@ -20,7 +20,8 @@ List of marketing videos and content subject for publicizing business developmen
 ### Vetting the Concept 
 - opening: always a book or an item of interest (the hard thing about had things) sound - find royalty free music
 - topics: vet it a little and start
-- quote: 
+- quote: Common understanding delivers solid baseline platform to build a software product upon.
+- link: https://medium.com/@filipszalewicz/vetting-the-concept-bf335689ae5b?source=friends_link&sk=6d07c013969a80395985acf0be200bb9
 
 
 ### Baby Steps 
