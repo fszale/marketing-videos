@@ -27,7 +27,8 @@ List of marketing videos and content subject for publicizing business developmen
 ### Baby Steps 
 - opening: always a book or an item of interest (the hard thing about had things) sound - find royalty free music
 - topics: small baby steps, multiple chessboards
-- quote: 
+- quote: Baby steps produce eventual momentum, luck is optional.
+- link: https://medium.com/@filipszalewicz/baby-steps-4bae61172cb7?source=friends_link&sk=50365a04ff5184c8fe9c5992a2a2dde0
 
 
 ### Playing Chess in 4 Dimensions 
