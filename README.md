@@ -34,7 +34,8 @@ List of marketing videos and content subject for publicizing business developmen
 ### Playing Chess in 4 Dimensions 
 - opening: always a book or an item of interest (the hard thing about had things) sound - find royalty free music
 - topics: multiple chessboards
-- quote: 
+- quote: Be mindful, move forward.
+- link: https://medium.com/@filipszalewicz/building-a-software-startup-series-playing-chess-in-4-dimensions-7c300bb7fa5e?sk=6b2085ef57882bc5b16a5977eb9c4b85
 
 
 ### Change is a Constant 
