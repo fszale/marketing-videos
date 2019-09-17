@@ -38,6 +38,13 @@ List of marketing videos and content subject for publicizing business developmen
 - link: https://medium.com/@filipszalewicz/building-a-software-startup-series-playing-chess-in-4-dimensions-7c300bb7fa5e?sk=6b2085ef57882bc5b16a5977eb9c4b85
 
 
+### Code Generator In Action
+- opening: always a book or an item of interst (the hard thing about had things) sound - find royalty free music
+- topics: configuration driven code generation
+- quote: Writing code to generate code is a winning strategy.
+- link: https://medium.com/@filipszalewicz/code-series-code-generator-in-action-1e7d792098cc?sk=aec889f013063c5b639c33aa60474f05
+
+
 ### Change is a Constant 
 - opening: always a book or an item of interst (the hard thing about had things) sound - find royalty free music
 - topics: design code assuming rules will change (rules engine), configuration
