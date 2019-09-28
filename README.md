@@ -60,8 +60,8 @@ List of marketing videos and content subject for publicizing business developmen
 - link: https://medium.com/@filipszalewicz/how-to-build-a-magnificent-software-engineering-team-5e50fd8d3994?source=friends_link&sk=a6d6ca1d19ad62820fd9889f86b9a9aa
 
 
-### Positive Reinforcement 
-- topics: Recharge an engineer, nuance
+### Talent Factory 
+- topics: Recharge an engineer, nuances of positive reinforcement
 - quote: 
 
 
