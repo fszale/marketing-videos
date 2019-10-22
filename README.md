@@ -41,8 +41,8 @@ List of marketing videos and content subject for publicizing business developmen
 
 ### Change is a Constant 
 - topics: design code assuming rules will change (rules engine), configuration 
-- quote: tbd ...
-- link: https://medium.com/@filipszalewicz/code-series-rules-engines-in-action-b7ec874b86e1
+- quote: The only constant is change itself.
+- link: https://medium.com/@filipszalewicz/code-series-rules-engines-in-action-b7ec874b86e1?sk=bbea36905ce3f24791e67c2a04dc965b
 
 
 ### Configuration First 
